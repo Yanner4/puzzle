@@ -1,0 +1,11 @@
+com\mycompany\puzzle\Board.class
+com\mycompany\puzzle\Figure.class
+com\mycompany\puzzle\Puzzle$2.class
+com\mycompany\puzzle\PuzzleSolver.class
+com\mycompany\puzzle\Puzzle.class
+com\mycompany\puzzle\TimerPanel$PuzzleCompletionListener.class
+com\mycompany\puzzle\TimerPanel$1.class
+com\mycompany\puzzle\Puzzle$1.class
+com\mycompany\puzzle\PuzzleSolver$PuzzleState.class
+com\mycompany\puzzle\Cell.class
+com\mycompany\puzzle\TimerPanel.class
